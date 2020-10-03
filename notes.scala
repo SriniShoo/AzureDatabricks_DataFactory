@@ -28,8 +28,3 @@
   https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/authentication
 17. Create Linked service to access databricks cluster from ADF - databricks_srini_dev
 18. Create Pipeline and execute databricks notebooks
-
-//  Resources
-https://adf.azure.com/monitoring/pipelineruns?factory=%2Fsubscriptions%2Fc6fcd499-eacf-4c74-9375-46f2bd81c4ba%2FresourceGroups%2Frg-srini-dev%2Fproviders%2FMicrosoft.DataFactory%2Ffactories%2Fadf-srini-dev
-https://adb-8694500549028951.11.azuredatabricks.net/?o=8694500549028951#notebook/2686351681326726/command/2686351681326730
-https://portal.azure.com/#@82606aba-7563-492c-b332-8e92e2bb3760/resource/subscriptions/c6fcd499-eacf-4c74-9375-46f2bd81c4ba/resourceGroups/rg-srini-dev/providers/Microsoft.DocumentDb/databaseAccounts/cosmosdb-srini-dev/dataExplorer
